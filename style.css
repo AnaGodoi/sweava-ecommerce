@@ -1,0 +1,128 @@
+body {
+    background: #e5e5e5;
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway", sans-serif;
+}
+
+/* .bola-azul{ 
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 0;
+}*/
+.caixa {
+    position: relative;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 226px;
+    flex: 1;
+}
+
+nav {
+    top: 60px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 64px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.botao-download {
+    margin: 0 0 0 214px;
+    border: none;
+    background-color: #fab8c3;
+    width: 204px;
+    height: 70px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #5956e9;
+    border-radius: 10px;
+}
+
+.principal {
+    display: flex;
+    flex: 1;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-right: 50px;
+}
+
+.titulos {
+    width: 530px;
+    /* margin-left: 178px; */
+    /* margin-top: 113px; */
+    /* background-color: aqua; */
+    margin-top: 100px;
+}
+
+.titulo-chamada {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.subtitulo {
+    font-size: 24px;
+    font-weight: 500px;
+    color: #737373;
+}
+
+.botao-dois {
+    /* margin: 58px 0 0 178px; */
+    border: none;
+    background-color: #5956e9;
+    width: 204px;
+    height: 70px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fab8c3;
+    border-radius: 10px;
+    margin-top: 58px;
+}
+
+.img-boneco {
+    display: inline;
+}
+
+.how-works{
+    font-size: 44px;
+    font-weight: 600;
+    opacity: 80%;
+    text-align: center;
+}
+
+.parte-dois{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+   
+}
+
+.texto-parte-dois{
+    width: 500px;
+}
+
+.create{
+    font-size: 24px;
+    font-weight: 700;
+    color:#5956E9
+}
+
+.texto-titulo{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.texto-subtitulo{
+    font-size: 24px;
+    font-weight: 500;
+    color: #868686
+}
